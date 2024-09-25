@@ -1,0 +1,4 @@
+site_name: My Docs
+site_url: https://fulcrum29.github.com/docs
+theme:
+  name: material
