@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://fulcrum29.github.com/docs/</loc>
+         <lastmod>2024-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://fulcrum29.github.com/docs/blog/</loc>
+         <lastmod>2024-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://fulcrum29.github.com/docs/blog/2024/09/25/how-we-deploy-microservices-at-gridgghttpsgridgg-using-gitops-approach/</loc>
+         <lastmod>2024-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://fulcrum29.github.com/docs/blog/archive/2024/</loc>
+         <lastmod>2024-09-25</lastmod>
+    </url>
+</urlset>
